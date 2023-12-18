@@ -3,6 +3,7 @@
 **This folder contains two parts:**
 - Background removal  
 - Image-to-3D  
+
 Note that the environment(packages) of the two parts are incompatible.  
 Therefore we need to create an individual virtual environment for each part.
 
