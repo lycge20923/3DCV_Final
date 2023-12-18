@@ -8,7 +8,7 @@ Note that the environment(packages) of the two parts are incompatible.
 Therefore we need to create an individual virtual environment for each part.
 
 ## Step 1. Background removal
-reference: https://github.com/OPHoperHPO/image-background-remove-tool
+Reference: https://github.com/OPHoperHPO/image-background-remove-tool
 
 ### Install environment
 ```bash
@@ -24,7 +24,7 @@ This will output a preprocessed image -> `data/mona_lisa_rgba.png`
 
 
 ## Step 2. Image-to-3D
-reference: https://github.com/dreamgaussian/dreamgaussian
+Reference: https://github.com/dreamgaussian/dreamgaussian
 
 ### Install environment
 
