@@ -45,7 +45,7 @@
 * Config. **(Cont.)**
 
     ```
-    pip install pygame 
+    pip install pyopengl
     ```
 
 * Try to implement the following codes
