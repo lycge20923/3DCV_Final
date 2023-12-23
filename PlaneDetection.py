@@ -57,7 +57,7 @@ def Parser():
     parser.add_argument('--calvideo_path', dest='calvideo_path', \
                         help="Input Calibration path", type=str, default='')
     parser.add_argument('--output_path', dest='output_path',\
-                        help="Output path", type=str, default='output.mp4')
+                        help="Output path", type=str, default='Det_output.mp4')
     return parser
 
 if __name__ == '__main__':
