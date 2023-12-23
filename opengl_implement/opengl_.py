@@ -25,7 +25,7 @@ class OpenGLGlyphs:
                                [ 1.0, 1.0, 1.0, 1.0]])
  
     def __init__(self):
-        self.video_pth = 'sample_5.mp4'
+        self.video_pth = 'Sample.mp4'
         # initialise webcam and start thread
         # self.webcam = VideoStream(src="http://172.20.10.3:8160/").start()
         self.capture = cv2.VideoCapture(self.video_pth)
