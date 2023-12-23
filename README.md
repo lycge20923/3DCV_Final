@@ -21,7 +21,7 @@
 #### Aruco-Marker
 * First, download the required packages
     ```
-    pip install opencv-python opencv-contrib-python==4.6.0.66 pygame PyOpenGL
+    pip install opencv-python opencv-contrib-python==4.6.0.66
     ```
 * Then run the following code, the output would be stored in the ```Det_output.mp4```
 
@@ -43,6 +43,11 @@
 
 #### OpenGL
 * Config. **(Cont.)**
+
+    ```
+    pip install pygame 
+    ```
+
 * Try to implement the following codes
     ```
     python3 opengl_implement/opengl_.py
