@@ -9,7 +9,7 @@
     * The resultant video: ```final.mov``` 
     * (Optional)Calibration Board and its relative video for camera calibration: stored in the ```CharucoBoard``` folder, and the result of Camera Calibration, Camera Matrix and Distotion Coefficient, are stored in the ```PickleFile/defined_calibration.pckl```
     * (Optional)Examples of Aruco Markers: Stored in ```ArucoMarkers``` folder.
-3. **Report:** **(Cont.)**
+3. **Report:** ```3DCV_Team18_Report.pdf```
 4. **PowerPoint for Presentation:** ```3dcv2023_final_group_18.pdf```
 5. **How to Implement:** Describe bellow
 
@@ -42,7 +42,7 @@
     ```
 
 #### OpenGL
-* Config. **(Cont.)**
+* Config.
 
     ```
     pip install pygame 
